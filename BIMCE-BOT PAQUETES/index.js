@@ -3,7 +3,7 @@ import {AttachmentBuilder, ChannelType, Client, GatewayIntentBits, Partials, RES
 import { CodeGPTPlus } from 'judini'
 
 dotenv.config({ path: 'bot.env' })
-//hola esto es una prueba 
+//que poasa pe
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
